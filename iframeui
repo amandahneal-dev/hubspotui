@@ -1,1 +1,2 @@
 npm install @hubspot/cli
+hs init
